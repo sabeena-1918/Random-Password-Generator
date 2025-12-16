@@ -9,3 +9,8 @@ A simple and customizable *Password generator* built with HTML, CSS and JavaScri
   - Numbers
   - Symbols
   - Adjustable password length
+## How to Use
+Clone or download this repository:
+bash
+git clone
+https://github.com/sabeena-1918/Random-Password-Generator
